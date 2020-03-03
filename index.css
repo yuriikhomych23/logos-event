@@ -1,0 +1,8 @@
+.block {
+    width: 80%;
+    min-height: 70px;
+    margin: 10px auto;
+    background-color: red;
+    display: flex;
+    flex-wrap: wrap;
+}
